@@ -1,4 +1,4 @@
-[![I am Sheikh Abdur Rkib](https://github.com/sheikh-abdur-rakib/about/blob/main/code.jpg)
+![I am Sheikh Abdur Rkib](https://github.com/sheikh-abdur-rakib/about/blob/main/code.jpg)
 
 <h1 align="center">Hi 👋, I'm Sheikh Abdur Rakib</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
