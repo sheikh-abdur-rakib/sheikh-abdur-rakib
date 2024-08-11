@@ -53,8 +53,8 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS / TailWind
 ## Best Repo -
 
 [![Ict-project](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-abdur-rakib&repo=Ict-project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheikh-abdur-rakib/Ict-project)
-[![E-commerce-Tailwind](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-abdur-rakib&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheikh-abdur-rakib/E-commerce-Tailwind)
-[![modern-landing-page-with-tailwinds](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-abdur-rakib&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheikh-abdur-rakib/modern-landing-page-with-tailwinds)
+[![E-commerce-Tailwind](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-abdur-rakib&repo=E-commerce-Tailwind_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheikh-abdur-rakib/E-commerce-Tailwind)
+[![modern-landing-page-with-tailwinds](https://github-readme-stats.vercel.app/api/pin/?username=sheikh-abdur-rakib&modern-landing-page-with-tailwinds&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sheikh-abdur-rakib/modern-landing-page-with-tailwinds)
 
 <p align="left">
   <a href="https://github.com/sheikh-abdur-rakib?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
